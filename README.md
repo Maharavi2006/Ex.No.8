@@ -57,7 +57,8 @@ A adorable fluffy cat sitting attentively in a cozy movie theater seat, eyes fix
 
 * Original
  
-  <img width="600" height="401" alt="image" src="https://github.com/user-attachments/assets/2e78bfb4-310e-43b5-bf52-46a37e1165be" />
+  <img width="1600" height="1156" alt="image" src="https://github.com/user-attachments/assets/f32e1748-1f05-47e6-9ae7-40c0ba7ac45f" />
+
 
 
 * Reproduced
