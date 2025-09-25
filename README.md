@@ -52,18 +52,17 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 ## Prompt Used:
-Take this classic realism portrait and reproduce it as a digital anime-style illustration. Preserve the character’s facial expression, pose, and key features. Apply anime-style characteristics such as large expressive eyes, clean linework, simplified shading, and vibrant but harmonious colors. Retain the original composition and lighting as much as possible while giving it a modern, stylized anime aesthetic suitable for digital art or character concept design.
-
+A adorable fluffy cat sitting attentively in a cozy movie theater seat, eyes fixed on a brightly lit cinema screen, soft ambient light highlighting its fur, a bucket of popcorn nearby, cinematic atmosphere with plush seats and a large screen
 ## IMAGES:
 
 * Original
-<img width="800" height="1422" alt="image" src="https://github.com/user-attachments/assets/7bd12698-1176-480c-9217-0d869328d623" />
-
+ 
+  <img width="600" height="401" alt="image" src="https://github.com/user-attachments/assets/2e78bfb4-310e-43b5-bf52-46a37e1165be" />
 
 
 * Reproduced
 
-<img width="585" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd1c445b-0bcd-43e1-a145-42be72c71270" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8f7bfa6f-1a44-46bd-9c4a-4e11994c3210" />
 
 
 ## RESULT:
